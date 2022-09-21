@@ -1,0 +1,10 @@
+{
+      "clients": {
+            "client": {
+                  "user": "Usuario",
+                  "key": 1234,
+                  "total": 2700.0,
+                  "ultima movimentacao": "2022-09-20 18:00:48"
+            }
+      }
+}

@@ -1,0 +1,13 @@
+{
+      "dados": {
+            "saque": "False",
+            "deposito": "True",
+            "valor deposito": 1,
+            "valor total em conta": 2700.0
+      },
+      "client": {
+            "Cliente": "Usuario",
+            "key": 1234,
+            "Hora saque": "2022-09-20 18:00:48"
+      }
+}
